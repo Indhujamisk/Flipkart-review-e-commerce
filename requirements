@@ -3,3 +3,4 @@ pillow
 torchvision
 pytorch
 transformers
+pipeline
